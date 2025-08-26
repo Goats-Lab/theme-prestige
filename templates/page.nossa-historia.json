@@ -51,7 +51,6 @@
       "block_order": [
         "image_LaM4rB"
       ],
-      "disabled": true,
       "name": "t:sections.slideshow.presets.slideshow.name",
       "settings": {
         "allow_transparent_header": false,
@@ -93,7 +92,6 @@
         "heading_gLqdcc",
         "richtext_ErbQXe"
       ],
-      "disabled": true,
       "name": "t:sections.rich_text.presets.rich_text.name",
       "settings": {
         "color_scheme": "scheme-2",
@@ -102,51 +100,11 @@
         "text_position": "start",
         "remove_vertical_spacing": false
       }
-    },
-    "image_with_text_9VcrQP": {
-      "type": "image-with-text",
-      "blocks": {
-        "subheading_nQidRx": {
-          "type": "subheading",
-          "settings": {
-            "text": "Arvult"
-          }
-        },
-        "heading_qAGeRd": {
-          "type": "heading",
-          "settings": {
-            "text": "Nossa História",
-            "heading_tag": "h1"
-          }
-        },
-        "richtext_ThDip3": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Arvult não é apenas uma marca, é um estilo de vida.</p><p>Cada peça é cuidadosamente projetada para incorporar a modernidade e o refinamento, proporcionando aos nossos clientes a oportunidade de expressar o melhor de si, tanto profissionalmente quanto pessoalmente.</p><p>Nossa missão é fornecer elegância através de nossas roupas, elevando não apenas o guarda-roupa, mas também a autoestima de quem as veste.</p><p>Uma vez que você experimenta a confiança que nossos trajes proporcionam, nunca mais deseja abrir mão desse lifestyle.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_nQidRx",
-        "heading_qAGeRd",
-        "richtext_ThDip3"
-      ],
-      "name": "t:sections.image_with_text.presets.image_with_text.name",
-      "settings": {
-        "color_scheme": "scheme-2",
-        "separate_section_with_border": false,
-        "image": "shopify://shop_images/ERY6967.jpg",
-        "reveal_on_scroll": true,
-        "image_position": "start",
-        "content_width": "sm",
-        "remove_vertical_spacing": true
-      }
     }
   },
   "order": [
     "main",
     "slideshow_TTbnDk",
-    "rich_text_WCknEg",
-    "image_with_text_9VcrQP"
+    "rich_text_WCknEg"
   ]
 }
