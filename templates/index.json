@@ -44,7 +44,7 @@
         "image_Nn4K7B"
       ],
       "settings": {
-        "allow_transparent_header": false,
+        "allow_transparent_header": true,
         "show_next_section_button": false,
         "media_size": "fill",
         "show_initial_transition": false,
