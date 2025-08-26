@@ -128,7 +128,7 @@
         "overlap_image": true,
         "content_alignment": "center",
         "text_alignment": "start",
-        "spacing": "xs",
+        "spacing": "sm",
         "subheading": "",
         "title": "",
         "content": ""
