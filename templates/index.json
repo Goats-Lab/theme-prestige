@@ -12,6 +12,33 @@
     "slideshow": {
       "type": "slideshow",
       "blocks": {
+        "image_WnGedB": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/IMG_8323.png",
+            "mobile_image": "shopify://shop_images/DSC01112.jpg",
+            "subheading": "",
+            "title": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "content_max_width": 780,
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_1_style": "solid",
+            "button_1_background": "#ffffff",
+            "button_1_text_color": "#000000",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_style": "outline",
+            "button_2_background": "#ffffff",
+            "button_2_text_color": "#000000",
+            "background": "rgba(0,0,0,0)",
+            "background_opacity": 0,
+            "text_color": "#ffffff",
+            "border_color": "",
+            "gradient_overlay": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 100%)"
+          }
+        },
         "image_Nn4K7B": {
           "type": "image",
           "settings": {
@@ -68,6 +95,7 @@
         }
       },
       "block_order": [
+        "image_WnGedB",
         "image_Nn4K7B",
         "image_LiF67e"
       ],
@@ -110,6 +138,44 @@
         "horizontal_spacing_factor": 1,
         "vertical_spacing_factor": 1,
         "subheading": ""
+      }
+    },
+    "image_with_text_dQPb8r": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_BqKpng": {
+          "type": "subheading",
+          "settings": {
+            "text": "Novo Drop"
+          }
+        },
+        "heading_VhUUJY": {
+          "type": "heading",
+          "settings": {
+            "text": "Image with text",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_PmXcXc": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_BqKpng",
+        "heading_VhUUJY",
+        "richtext_PmXcXc"
+      ],
+      "name": "t:sections.image_with_text.presets.image_with_text.name",
+      "settings": {
+        "color_scheme": "scheme-2",
+        "separate_section_with_border": false,
+        "reveal_on_scroll": true,
+        "image_position": "start",
+        "content_width": "sm",
+        "remove_vertical_spacing": false
       }
     },
     "slideshow_qyhycp": {
@@ -320,6 +386,7 @@
   "order": [
     "slideshow",
     "featured-collections",
+    "image_with_text_dQPb8r",
     "slideshow_qyhycp",
     "rich_text_6E4nMr",
     "shop-the-look",
