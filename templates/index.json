@@ -115,7 +115,7 @@
         "image_with_text_VWxzaW"
       ],
       "custom_css": [
-        ".multi-column {max-width: 1200px; margin: 0 auto;}",
+        ".multi-column {max-width: 1200px; margin: 0 auto; padding-top: 40px;}",
         ".h3 {background-color: #ffffff; color: #000000; padding: 10px 0px; display: inline-block; min-width: 200px;}",
         ".h3 {margin-bottom: -20px;}"
       ],
