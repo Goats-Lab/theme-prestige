@@ -225,9 +225,10 @@
       "block_order": [
         "look-1"
       ],
+      "disabled": true,
       "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
+        "color_scheme": "scheme-2",
+        "separate_section_with_border": false,
         "subheading": "",
         "title": "Shop the look",
         "content": "",
@@ -277,7 +278,7 @@
         "item-3"
       ],
       "settings": {
-        "color_scheme": "",
+        "color_scheme": "scheme-2",
         "image_position": "start",
         "text_alignment": "center",
         "heading_tag": "h3",
