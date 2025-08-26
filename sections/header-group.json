@@ -24,8 +24,9 @@
       "block_order": [
         "message-1"
       ],
+      "disabled": true,
       "settings": {
-        "color_scheme": "",
+        "color_scheme": "scheme-2",
         "enable_sticky": false,
         "autoplay": true,
         "cycle_speed": 5,
