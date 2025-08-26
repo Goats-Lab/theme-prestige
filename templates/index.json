@@ -87,32 +87,32 @@
     "multi_column_zF7dag": {
       "type": "multi-column",
       "blocks": {
-        "image_with_text_XakJCQ": {
-          "type": "image_with_text",
-          "settings": {
-            "image": "shopify://shop_images/1.png",
-            "title": "Acessórios",
-            "heading_tag": "h3",
-            "content": "<p>Detalhes que transformam qualquer look em uma expressão única.</p>",
-            "link_url": "",
-            "link_text": ""
-          }
-        },
         "image_with_text_VWxzaW": {
           "type": "image_with_text",
           "settings": {
-            "image": "shopify://shop_images/81df5350-ea80-464b-9dcb-0433ba6421a9___62feaefe570c8ba2ae194c013bbcb805.webp",
+            "image": "shopify://shop_images/2.png",
             "title": "Vestuário",
             "heading_tag": "h3",
             "content": "<p>Peças que acompanham sua rotina com estilo e autenticidade.</p>",
             "link_url": "",
             "link_text": ""
           }
+        },
+        "image_with_text_XakJCQ": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/2.png",
+            "title": "Acessórios",
+            "heading_tag": "h3",
+            "content": "<p>Detalhes que transformam qualquer look em uma expressão única.</p>",
+            "link_url": "",
+            "link_text": ""
+          }
         }
       },
       "block_order": [
-        "image_with_text_XakJCQ",
-        "image_with_text_VWxzaW"
+        "image_with_text_VWxzaW",
+        "image_with_text_XakJCQ"
       ],
       "custom_css": [
         ".multi-column {max-width: 1200px; margin: 0 auto; padding-top: 40px;}",
