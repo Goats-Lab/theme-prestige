@@ -109,10 +109,36 @@
             "border_color": "",
             "gradient_overlay": "linear-gradient(180deg, rgba(54, 54, 54, 0.2), rgba(4, 4, 4, 0.65) 100%)"
           }
+        },
+        "image_NbKqdb": {
+          "type": "image",
+          "settings": {
+            "subheading": "",
+            "title": "Vestuário",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "content_max_width": 780,
+            "button_1_text": "Ver Categoria",
+            "button_1_link": "",
+            "button_1_style": "outline",
+            "button_1_background": "#ffffff",
+            "button_1_text_color": "#000000",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_style": "outline",
+            "button_2_background": "#ffffff",
+            "button_2_text_color": "#000000",
+            "background": "",
+            "background_opacity": 50,
+            "text_color": "#ffffff",
+            "border_color": "",
+            "gradient_overlay": "linear-gradient(180deg, rgba(54, 54, 54, 0.2), rgba(4, 4, 4, 0.65) 100%)"
+          }
         }
       },
       "block_order": [
-        "image_hL4b3z"
+        "image_hL4b3z",
+        "image_NbKqdb"
       ],
       "settings": {
         "allow_transparent_header": true,
@@ -124,6 +150,51 @@
         "cycle_speed": 5,
         "background": "#000000",
         "controls_color": "#ffffff"
+      }
+    },
+    "rich_text_6E4nMr": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_BHXwJ6": {
+          "type": "subheading",
+          "settings": {
+            "text": "a origem"
+          }
+        },
+        "heading_kg6HpF": {
+          "type": "heading",
+          "settings": {
+            "text": "ESSENCIAL, PRESENÇA E SIGNIFICADO.",
+            "heading_tag": "h2"
+          }
+        },
+        "richtext_rEMfbC": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Seventh nasceu da vontade de criar menos — com mais propósito.<br/><br/>Descubra por que cada peça carrega mais do que forma.</p>"
+          }
+        },
+        "link_wXDMFt": {
+          "type": "link",
+          "settings": {
+            "text": "Nossa História",
+            "url": "shopify://pages/nossa-historia"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_BHXwJ6",
+        "heading_kg6HpF",
+        "richtext_rEMfbC",
+        "link_wXDMFt"
+      ],
+      "name": "t:sections.rich_text.presets.rich_text.name",
+      "settings": {
+        "color_scheme": "scheme-2",
+        "separate_section_with_border": false,
+        "content_width": "lg",
+        "text_position": "center",
+        "remove_vertical_spacing": false
       }
     },
     "shop-the-look": {
@@ -216,6 +287,7 @@
     "slideshow",
     "featured-collections",
     "slideshow_qyhycp",
+    "rich_text_6E4nMr",
     "shop-the-look",
     "image-with-text-scroll"
   ]
