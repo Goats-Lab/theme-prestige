@@ -188,7 +188,9 @@
         "richtext_rEMfbC",
         "link_wXDMFt"
       ],
-      "custom_css": [],
+      "custom_css": [
+        ".container--lg {padding-top: 40px; padding-bottom: 40px;}"
+      ],
       "name": "t:sections.rich_text.presets.rich_text.name",
       "settings": {
         "color_scheme": "scheme-2",
