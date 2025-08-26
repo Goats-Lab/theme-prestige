@@ -169,6 +169,7 @@
         "richtext_rEMfbC",
         "link_wXDMFt"
       ],
+      "disabled": true,
       "custom_css": [
         ".container--lg {padding-top: 40px; padding-bottom: 40px;}"
       ],
@@ -258,6 +259,7 @@
         "item-2",
         "item-3"
       ],
+      "disabled": true,
       "settings": {
         "color_scheme": "scheme-2",
         "image_position": "start",
