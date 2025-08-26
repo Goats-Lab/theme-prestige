@@ -17,8 +17,8 @@
           "settings": {
             "image": "shopify://shop_images/IMG_8323.png",
             "mobile_image": "shopify://shop_images/DSC01112.jpg",
-            "subheading": "NOVO DROP disponível",
-            "title": "NOVO DROP disponível",
+            "subheading": "",
+            "title": "NOVO DROP DISPONÍVEL",
             "mobile_text_position": "place-self-end-start text-start",
             "desktop_text_position": "sm:place-self-end-start sm:text-start",
             "content_max_width": 780,
