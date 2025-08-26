@@ -84,44 +84,6 @@
         "subheading": ""
       }
     },
-    "image_with_text_dQPb8r": {
-      "type": "image-with-text",
-      "blocks": {
-        "subheading_BqKpng": {
-          "type": "subheading",
-          "settings": {
-            "text": "Novo Drop"
-          }
-        },
-        "heading_VhUUJY": {
-          "type": "heading",
-          "settings": {
-            "text": "Image with text",
-            "heading_tag": "h1"
-          }
-        },
-        "richtext_PmXcXc": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_BqKpng",
-        "heading_VhUUJY",
-        "richtext_PmXcXc"
-      ],
-      "name": "t:sections.image_with_text.presets.image_with_text.name",
-      "settings": {
-        "color_scheme": "scheme-2",
-        "separate_section_with_border": false,
-        "reveal_on_scroll": true,
-        "image_position": "start",
-        "content_width": "sm",
-        "remove_vertical_spacing": false
-      }
-    },
     "slideshow_qyhycp": {
       "type": "slideshow",
       "blocks": {
@@ -330,7 +292,6 @@
   "order": [
     "slideshow",
     "featured-collections",
-    "image_with_text_dQPb8r",
     "slideshow_qyhycp",
     "rich_text_6E4nMr",
     "shop-the-look",
