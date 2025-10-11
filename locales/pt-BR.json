@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin language editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "general": {
     "page": "Página {{ page }}",
@@ -99,7 +108,7 @@
       "view_in_space": "Veja em seu ambiente",
       "taxes_included": "Tributo incluído.",
       "taxes_excluded": "Tributo excluído.",
-      "shipping_policy_html": "<a href=\"{{ link }}\" class=\"link\">Frete<\/a> calculado no checkout",
+      "shipping_policy_html": "<a href=\"{{ link }}\" class=\"link\">Frete</a> calculado no checkout",
       "size_chart": "Guia de medidas",
       "available_colors_count": {
         "one": "{{ count }} cor disponível",
@@ -462,6 +471,42 @@
     "shop_the_look": {
       "view_products": "Ver produtos",
       "view_product": "Ver produto"
+    }
+  },
+  "shopify": {
+    "sentence": {
+      "last_word_connector": "e",
+      "two_words_connector": "e",
+      "words_connector": ","
+    },
+    "checkout": {
+      "general": {
+        "page_title": "Checkout",
+        "error_page_title": "Erro",
+        "skip_to_content": "Pular para o conteúdo",
+        "breadcrumb": "Trilha de navegação",
+        "continue_button_label": "Continuar",
+        "complete_purchase_button_label": "Finalizar a compra",
+        "pay_now_button_label": "Pagar agora",
+        "authenticate_purchase_button_label": "Autenticar pagamento",
+        "edit_link_label": "Editar",
+        "all_rights_reserved": "Todos os direitos reservados {{ shop_name }}",
+        "print_policies_link_label": "Imprimir",
+        "cart": "Carrinho",
+        "close_modal_label": "Fechar",
+        "close_notice_label": "Fechar",
+        "expand_notice_label": "Ver mais",
+        "continue_to_shipping_method": "Continuar com o frete",
+        "continue_to_payment_method": "Continuar com o pagamento",
+        "continue_to_review": "Revisar a compra",
+        "back_to_cart": "Voltar ao carrinho",
+        "back_to_contact_information": "Voltar para as informações",
+        "back_to_shipping_method": "Voltar para o frete",
+        "back_to_payment_method": "Voltar ao pagamento",
+        "choose_shipping_method": "Escolha uma forma de frete",
+        "choose_payment_method": "Escolha uma forma de pagamento",
+        "choose_billing_address": "Escolha um endereço de faturamento"
+      }
     }
   }
 }
