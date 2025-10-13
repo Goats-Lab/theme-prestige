@@ -51,6 +51,12 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "liquid_9QCDp4": {
+          "type": "liquid",
+          "settings": {
+            "liquid": ""
+          }
+        },
         "title": {
           "type": "title",
           "settings": {
@@ -97,6 +103,7 @@
         }
       },
       "block_order": [
+        "liquid_9QCDp4",
         "title",
         "price",
         "variant_picker",
