@@ -9,6 +9,45 @@
  */
 {
   "sections": {
+    "prova_social_QNPgDJ": {
+      "type": "prova-social",
+      "name": "Prova Social",
+      "settings": {
+        "coupon_position": "below_title",
+        "first_image": "shopify://shop_images/logo_preta_s_fundo.png",
+        "second_image": "shopify://shop_images/crtz-alcatraz-white-logo_150x150_f067f889-b0a9-4697-9c26-7fb01c01d5fe.avif",
+        "third_image": "shopify://shop_images/globe.svg",
+        "image_size": 30,
+        "image_size_mobile": 25,
+        "image_radius": 100,
+        "image_border_thickness": 0,
+        "text": "<p><strong>Davie</strong> ✓, <strong>Mark</strong> ✓ and <strong>1500+</strong> others love our products!</p>",
+        "text_custom": false,
+        "text_font": "josefin_sans_n4",
+        "text_size": 13,
+        "text_size_mobile": 13,
+        "text_height": 150,
+        "text_align": "left",
+        "text_align_mobile": "left",
+        "text_color": "#121212",
+        "icon_color": "#42A5F5",
+        "image_border_color": "#121212",
+        "background_style": "solid",
+        "background_color": "#F3F3F3",
+        "background_gradient": "linear-gradient(180deg, #FFFFFF 0%, #F2F2F2 100%)",
+        "border_color": "#121212",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 10,
+        "padding_bottom": 10,
+        "padding_horizontal": 10,
+        "padding_horizontal_mobile": 10,
+        "border_style": "solid",
+        "border_thickness": 0,
+        "section_radius": 0,
+        "lazy": false
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -99,6 +138,7 @@
     }
   },
   "order": [
+    "prova_social_QNPgDJ",
     "main",
     "related-products"
   ]
