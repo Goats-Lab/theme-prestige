@@ -53,6 +53,7 @@
       "blocks": {
         "liquid_9QCDp4": {
           "type": "liquid",
+          "name": "Prova Social",
           "settings": {
             "liquid": "<div id='ss-social-proof'></div>"
           }
