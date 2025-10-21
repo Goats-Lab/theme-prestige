@@ -97,6 +97,17 @@
             "collapse_content": true,
             "show_below_gallery": false
           }
+        },
+        "accordion_7ymqQL": {
+          "type": "accordion",
+          "settings": {
+            "show_below_gallery": false,
+            "icon": "none",
+            "title": "Composição",
+            "content": "<p>x</p>",
+            "liquid": "",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -105,7 +116,8 @@
         "price",
         "variant_picker",
         "buy_buttons",
-        "description"
+        "description",
+        "accordion_7ymqQL"
       ],
       "settings": {
         "color_scheme": "scheme-2",
