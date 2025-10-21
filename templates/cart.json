@@ -13,7 +13,7 @@
       "type": "main-cart",
       "settings": {
         "color_scheme": "scheme-2",
-        "show_cart_note": true,
+        "show_cart_note": false,
         "show_order_weight": false,
         "show_shipping_text": false,
         "show_accelerated_buttons": false,
